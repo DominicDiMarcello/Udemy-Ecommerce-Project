@@ -1,7 +1,7 @@
 # Udemy-Ecommerce-Project
 
-##Activate Backend
+## Activate Backend
 In IntelliJ go to `Run`
 
-##Activate Front-End
+## Activate Front-End
 In terminal enter `ng serve --open`
